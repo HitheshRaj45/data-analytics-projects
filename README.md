@@ -17,3 +17,12 @@ Python | Pandas | Matplotlib | Seaborn
 - Segmented 7,043 customers into 3 risk categories
 - High risk customers churn at 8x rate of low risk
 - 3 retention strategies with $500K+ revenue impact
+
+## Project 2: NYC Uber Demand Analysis 🚕
+- Analyzed **1.5M+ Uber pickups** in NYC
+- Found Friday 5PM = peak demand (119K pickups/hour)
+- Built geospatial visualization of Manhattan hotspots
+- Created day×hour heatmap for driver strategy
+- **Key Insight:** Friday 5PM Midtown = maximum earnings
+
+Tools: Python | Pandas | Matplotlib | Seaborn
